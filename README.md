@@ -11,6 +11,6 @@ Hi 👋 My name is Георгий Иголкин
 
 ### Badges
 
-<b>My GitHub Stats</b>
+![GitHub Commits Graph](https://github-readme-activity-graph.cyclic.app/graph?username=himetik&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
-<a href="http://www.github.com/himetik"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=himetik&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+Created by [ProfileMe](https://www.profileme.dev)
