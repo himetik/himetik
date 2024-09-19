@@ -1,4 +1,4 @@
-Hi 👋 My name is Георгий Иголкин
+Hi 👋 My name is Igolkin George
 ================================
 
 Backend Developer
